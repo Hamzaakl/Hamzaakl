@@ -17,6 +17,7 @@ Hi there! I'm Hamza, a 4th-year Computer Engineering student at Erzurum Atatürk
 - **Basic Network Setup** (Cisco Packet Tracer)
 - **TCP Client-Server Communication** (Python)
 - **Host Discovery** (Python)
+- **Port Scan** (Python)
 
 ### Interests
 
@@ -56,6 +57,7 @@ Merhaba! Ben Hamza, Erzurum Atatürk Üniversitesi'nde Bilgisayar Mühendisliği
 - **Basit-Ag-Kurma** (Cisco Packet Tracer)
 - **TCP-Istemci-Sunucu-Iletisimi** (Python)
 - **Host-Discovery** (Python)
+- **Port Tarayıcı** (Python)
 
 ### İlgi Alanlarım
 
