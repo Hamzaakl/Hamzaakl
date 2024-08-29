@@ -36,7 +36,7 @@ Hi there! I'm Hamza, a 4th-year Computer Engineering student at Erzurum Atatürk
 
 - **Email**: [hamzakl0663@gmail.com]
 
-- [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hamzakl.png)](https://tryhackme.com/badge/3391369)
+  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hamzakl.png)](https://tryhackme.com/p/hamzakl)
 
 ---
 
