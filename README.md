@@ -9,7 +9,7 @@
 
 Hi there! I'm Hamza, a 4th-year Computer Engineering student at Erzurum Atatürk University. I have a strong interest in networking and cybersecurity, and I'm constantly improving my skills in software development by working on various projects.
 
-### My Projects
+### My Repositories
 
 - **Introduction to Machine Learning** (Python)
 - **Parallel Programming with Palandoken Number** (C++)
@@ -49,7 +49,7 @@ Hi there! I'm Hamza, a 4th-year Computer Engineering student at Erzurum Atatürk
 
 Merhaba! Ben Hamza, Erzurum Atatürk Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Ağ ve siber güvenlik konularına büyük bir ilgi duyuyorum. Yazılım geliştirme alanında kendimi sürekli olarak geliştiriyorum .
 
-### Projelerim
+### Repolarım
 
 - **Makine-Ogrenmesine-Giris** (Python)
 - **Parelel-Programlama-Ile-Palandoken-Sayisi** (C++)
