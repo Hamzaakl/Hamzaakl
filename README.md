@@ -18,6 +18,7 @@ Hi there! I'm Hamza, a 4th-year Computer Engineering student at Erzurum Atatürk
 - **TCP Client-Server Communication** (Python)
 - **Host Discovery** (Python)
 - **Port Scan** (Python)
+- **Banner Grabbing** (Python)
 
 ### Interests
 
@@ -35,6 +36,12 @@ Hi there! I'm Hamza, a 4th-year Computer Engineering student at Erzurum Atatürk
 - **LinkedIn**: [www.linkedin.com/in/hamza-akıllı]
 
 - **Email**: [hamzakl0663@gmail.com]
+
+- **Hackerrank** [https://www.hackerrank.com/profile/hamzakl0663]
+
+  
+- **Tryhackme**
+  
 
   [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hamzakl.png)](https://tryhackme.com/p/hamzakl)
 
@@ -60,6 +67,7 @@ Merhaba! Ben Hamza, Erzurum Atatürk Üniversitesi'nde Bilgisayar Mühendisliği
 - **TCP-Istemci-Sunucu-Iletisimi** (Python)
 - **Host-Discovery** (Python)
 - **Port Tarayıcı** (Python)
+- **Banner Grabbing** (Python)
 
 ### İlgi Alanlarım
 
@@ -77,6 +85,14 @@ Merhaba! Ben Hamza, Erzurum Atatürk Üniversitesi'nde Bilgisayar Mühendisliği
 - **LinkedIn**: [www.linkedin.com/in/hamza-akıllı]
 
 - **Email**: [hamzakl0663@gmail.com]
+
+
+- **Hackerrank** [https://www.hackerrank.com/profile/hamzakl0663]
+
+- **Tryhackme**
+  
+  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hamzakl.png)](https://tryhackme.com/p/hamzakl)
+
 
 
 
