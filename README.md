@@ -19,6 +19,7 @@ Hi there! I'm Hamza, a 4th-year Computer Engineering student at Erzurum Atatürk
 - **Host Discovery** (Python)
 - **Port Scan** (Python)
 - **Banner Grabbing** (Python)
+- **MAC Changer** (Python)
 
 ### Interests
 
@@ -68,6 +69,7 @@ Merhaba! Ben Hamza, Erzurum Atatürk Üniversitesi'nde Bilgisayar Mühendisliği
 - **Host-Discovery** (Python)
 - **Port Tarayıcı** (Python)
 - **Banner Grabbing** (Python)
+- **MAC Değiştirme** (Python)
 
 ### İlgi Alanlarım
 
