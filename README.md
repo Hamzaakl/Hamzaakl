@@ -21,6 +21,8 @@ Hi there! I'm Hamza, a 4th-year Computer Engineering student at Erzurum Atatürk
 - **Banner Grabbing** (Python)
 - **MAC Changer** (Python)
 - **MAC Flood** (Python)
+- **Arp Poisoning** (Python)
+- **Network Sniffer** (Python)
 
 ### Interests
 
@@ -72,7 +74,11 @@ Merhaba! Ben Hamza, Erzurum Atatürk Üniversitesi'nde Bilgisayar Mühendisliği
 - **Banner Grabbing** (Python)
 - **MAC Değiştirme** (Python)
 - **MAC Flood** (Python)
+- **Arp Poisoning** (Python)
+- **Ağ Dinleyici** (Python)
 
+
+  
 ### İlgi Alanlarım
 
 - Ağ Teknolojileri
