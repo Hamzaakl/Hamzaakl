@@ -24,12 +24,13 @@ Hi there! I'm Hamza, a 4th-year Computer Engineering student at Erzurum Atatürk
 - **Arp Poisoning** (Python)
 - **Network Sniffer** (Python)
 
+
 ### Interests
 
 - Networking Technologies
 - Cybersecurity
 - Software Development
-
+- Cryptography
 ### Programming Languages I Know
 
 - **Basic Level**: C, C++, C#
@@ -84,7 +85,7 @@ Merhaba! Ben Hamza, Erzurum Atatürk Üniversitesi'nde Bilgisayar Mühendisliği
 - Ağ Teknolojileri
 - Siber Güvenlik
 - Yazılım Geliştirme
-
+- Kriptografi 
 ### Bildiğim Diller
 
 - **Temel Seviye**: C, C++, C#
