@@ -48,7 +48,7 @@ Hi there! I'm Hamza, a 4th-year Computer Engineering student at Erzurum Atatürk
 - **Tryhackme**
   
 
-  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hamzakl.png)](https://tryhackme.com/p/hamzakl)
+  [![TryHackMe]()](https://tryhackme.com/p/hamzakl)
 
 ---
 
@@ -102,7 +102,7 @@ Merhaba! Ben Hamza, Erzurum Atatürk Üniversitesi'nde Bilgisayar Mühendisliği
 
 - **Tryhackme**
   
-  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hamzakl.png)](https://tryhackme.com/p/hamzakl)
+  [![TryHackMe]()](https://tryhackme.com/p/hamzakl)
 
 
 
