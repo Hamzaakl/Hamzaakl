@@ -1,7 +1,7 @@
 
 # Hello, I'm Hamza! 👋
 
-**4th Year Computer Engineering Student | Networking and Cybersecurity Enthusiast**
+** Computer Engineer | Networking and Cybersecurity Enthusiast**
 
 ---
 
@@ -61,7 +61,7 @@ Hi there! I'm Hamza, a 4th-year Computer Engineering student at Erzurum Atatürk
 
 ### Hakkımda
 
-Merhaba! Ben Hamza, Erzurum Atatürk Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Ağ ve siber güvenlik konularına büyük bir ilgi duyuyorum. Yazılım geliştirme alanında kendimi sürekli olarak geliştiriyorum .
+Merhaba! Ben Hamza, Erzurum Atatürk Üniversitesi'nde Bilgisayar Mühendisliği mezunuyum. Ağ, Backend, DevOps ve siber güvenlik konularına büyük bir ilgi duyuyorum. Yazılım geliştirme alanında kendimi sürekli olarak geliştiriyorum .
 
 ### Repolarım
 
